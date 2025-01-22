@@ -50,3 +50,4 @@ export default tseslint.config({
 ```
 # ai-receipe-generator
 # ai-receipe-generator
+# ai-receipe-generator
